@@ -1,0 +1,14 @@
+{
+  "name": "sedona",
+  "version": "1.0.0",
+  "description": "* Студент: [Александр Фалин](https://up.htmlacademy.ru/htmlcss/39/user/1687531). * Наставник: `Неизвестно`.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
